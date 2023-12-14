@@ -30,9 +30,3 @@ docker container rm containerId/namecontainer
 # ex remove docker container
 docker container rm contohredis
 
-# show logs on container 
-docker container logs containerId/namecontainer
-
-# show logs on container realtime
-docker container logs -f containerId/namecontainer
- 
